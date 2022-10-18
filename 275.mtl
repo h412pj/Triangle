@@ -1,0 +1,103 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.134715837)
+
+newmtl DSP 18 mm _Sosna Kastsina_
+illum 1
+map_Kd 275_textures\H1401.jpg
+
+newmtl Profil_ 80kh60
+Kd 95 95 95
+illum 1
+
+newmtl VENNI 18 mm _HG-03_
+illum 1
+map_Kd 275_textures\W1200.jpg
+
+newmtl Podpyatnik
+Kd 176 176 176
+illum 1
+
+newmtl Svetodiodnaya lenta 12V
+Kd 0 240 0
+illum 1
+
+newmtl Podpyatnik 2
+Kd 35 35 35
+illum 1
+
+newmtl DVP 3 mm _Odnostoronniy belyy_
+Kd 233 233 233
+illum 1
+
+newmtl Chernyy
+Kd 48 48 48
+illum 1
+
+newmtl Kompakt plita _FunderMax_
+illum 1
+map_Kd 275_textures\default.bmp
+
+newmtl Montazhnaya shina
+illum 1
+map_Kd 275_textures\default.bmp
+
+newmtl Naves kukhonnyy _Pravyy_
+illum 1
+map_Kd 275_textures\default.bmp
+
+newmtl GTV Nikel plated
+Kd 188 197 203
+illum 1
+
+newmtl Belyy
+Kd 215 215 215
+illum 1
+
+newmtl Svetlo-seryy
+illum 1
+map_Kd 275_textures\default.bmp
+
+newmtl Nikel_
+Kd 127 127 127
+illum 1
+
+newmtl Metall
+illum 1
+map_Kd 275_textures\default.bmp
+
+newmtl Khrom
+Kd 106 106 106
+illum 1
+
+newmtl Ruchka knopka
+Kd 127 127 127
+illum 1
+
+newmtl Naves kukhonnyy _Levyy_
+illum 1
+map_Kd 275_textures\default.bmp
+
+newmtl Plastik seryy
+Kd 255 255 255
+illum 1
+
+newmtl Profil_ 60kh40
+Kd 255 255 0
+illum 1
+
+newmtl Metal
+Kd 143 143 143
+illum 1
+
+newmtl Seryy sv
+Kd 255 255 0
+illum 1
+
+newmtl Plastik prozrachnyy
+Kd 255 255 255
+illum 1
+
+newmtl Tablo gazschetchika
+illum 1
+map_Kd 275_textures\default.bmp
+
