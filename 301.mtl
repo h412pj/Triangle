@@ -1,0 +1,83 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.134715837)
+
+newmtl AGT 18mm _Belyy shelk_
+illum 1
+map_Kd 301_textures\U340.jpg
+
+newmtl Metal
+illum 1
+map_Kd 301_textures\U321.jpg
+
+newmtl Seryy sv
+Kd 255 255 0
+illum 1
+
+newmtl Tablo gazschetchika
+illum 1
+map_Kd 301_textures\default.bmp
+
+newmtl Plastik prozrachnyy
+Kd 255 255 255
+illum 1
+
+newmtl Chernyy
+Kd 48 48 48
+illum 1
+
+newmtl DSP 18 mm _Belyy gladkiy_
+Kd 255 255 255
+illum 1
+
+newmtl Profil_ 80kh60
+Kd 95 95 95
+illum 1
+
+newmtl Nikel_
+Kd 127 127 127
+illum 1
+
+newmtl Granitek
+Kd 246 182 127
+illum 1
+
+newmtl Nerzhaveyushchaya stal_
+Kd 39 39 39
+illum 1
+
+newmtl Seklo _simle_ 4 mm
+Kd 194 219 243
+illum 1
+
+newmtl Stekloderzhatel_ _khrom_
+Kd 127 127 127
+illum 1
+
+newmtl Hettich
+Kd 127 127 127
+illum 1
+
+newmtl Zerkalo _Grafit_
+illum 1
+map_Kd 301_textures\002.jpg
+
+newmtl Seklo _simle_ 6 mm
+Kd 192 192 192
+illum 1
+
+newmtl AGT 18 mm _Seryy Kamen__
+illum 1
+map_Kd 301_textures\390.jpg
+
+newmtl Plastik seryy
+Kd 255 255 255
+illum 1
+
+newmtl Khrom
+Kd 177 177 177
+illum 1
+
+newmtl Stoleshnitsa 38 mm _Mramor Levante belyy_
+illum 1
+map_Kd 301_textures\F812.jpg
+
