@@ -1,0 +1,19 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.2747402738)
+
+newmtl МДФ RAL 18 мм (1 сторона)
+illum 1
+map_Kd Fasad_textures\U650.jpg
+
+newmtl МДФ RAL 18 мм + фрезировка (1 сторона)
+illum 1
+map_Kd Fasad_textures\default.bmp
+
+newmtl МДФ RAL 22 мм + фрезировка (1 сторона)
+Kd 233 224 210
+illum 1
+
+newmtl Никель
+Kd 127 127 127
+illum 1
+
