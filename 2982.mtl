@@ -1,0 +1,123 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.2.2747402738)
+
+newmtl Метал
+illum 1
+map_Kd 2982_textures\U321.jpg
+
+newmtl Серый св
+Kd 255 255 0
+illum 1
+
+newmtl Хром
+Kd 177 177 177
+illum 1
+
+newmtl Профиль 20х20
+Kd 240 240 240
+illum 1
+
+newmtl МДФ RAL 18 мм + фрезировка (1 сторона)
+illum 1
+map_Kd 2982_textures\U114.jpg
+
+newmtl Пластик прозрачный
+Kd 255 255 255
+illum 1
+
+newmtl Светодиодная лента 12V
+Kd 0 240 0
+illum 1
+
+newmtl Табло газсчетчика
+illum 1
+map_Kd 2982_textures\default.bmp
+
+newmtl Пол
+Kd 255 43 43
+illum 1
+
+newmtl Дерево
+illum 1
+map_Kd 2982_textures\U131.jpg
+
+newmtl Черный
+Kd 48 48 48
+illum 1
+
+newmtl Профиль 80х60
+Kd 95 95 95
+illum 1
+
+newmtl Hettich
+illum 1
+map_Kd 2982_textures\U328.jpg
+
+newmtl Никель
+Kd 127 127 127
+illum 1
+
+newmtl ДСП 18 мм (Антрацит)
+illum 1
+map_Kd 2982_textures\U636.jpg
+
+newmtl Пластик серый
+Kd 255 255 255
+illum 1
+
+newmtl ДСП 18 мм (Caracalla Deciso)
+illum 1
+map_Kd 2982_textures\d5429-dv-600.jpg
+
+newmtl Наклейка 9
+Kd 40 21 215
+illum 1
+
+newmtl 1х22 - D5429
+Kd 26 217 217
+illum 1
+
+newmtl Подпятник
+Kd 176 176 176
+illum 1
+
+newmtl МДФ RAL 18 мм (1 сторона)
+illum 1
+map_Kd 2982_textures\U650.jpg
+
+newmtl Зеркало (Графит)
+illum 1
+map_Kd 2982_textures\002.jpg
+
+newmtl ДВП 3 мм (Односторонний белый)
+Kd 233 233 233
+illum 1
+
+newmtl Подпятник 2
+Kd 35 35 35
+illum 1
+
+newmtl Навес кухонный (Левый)
+illum 1
+map_Kd 2982_textures\default.bmp
+
+newmtl Монтажная шина
+illum 1
+map_Kd 2982_textures\U404.jpg
+
+newmtl Навес кухонный (Правый)
+illum 1
+map_Kd 2982_textures\default.bmp
+
+newmtl Наклейка 2
+Kd 246 182 127
+illum 1
+
+newmtl GTV Nikel plated
+Kd 188 197 203
+illum 1
+
+newmtl Наклейка 8
+Kd 246 182 127
+illum 1
+
